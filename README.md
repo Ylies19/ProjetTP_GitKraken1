@@ -26,6 +26,6 @@ Question 6:
 Un conflit survient lorsque deux modifications incompatibles sont appliquées au même fichier. Cela se produit généralement lors d'un merge si deux contributeurs ont modifié la même ligne.
 
 Question 7:
-123456
+
 
 
