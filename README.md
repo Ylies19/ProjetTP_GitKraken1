@@ -46,6 +46,12 @@ Une Pull Request (PR) sert à proposer des modifications pour examen avant inté
 Question 10:
 Un merge direct fusionne une branche sans validation préalable, tandis qu'une PR permet un examen et des discussions avant la fusion. La PR est plus sûre pour les projets collaboratifs, car elle permet de s'assurer de la qualité et de la compatibilité du code.
 
+Question 11:
+GitKraken utilise un graphique visuel montrant les branches, les commits, et les merges. Cette vue facilite la compréhension des relations entre les branches, de qui a agis et identifie rapidement les divergences ou conflits potentiels.
+
+Question 12:
+Les tags marquent des points importants de l'historique, comme des versions de production. Dans GitKraken, faites un clic droit sur un commit, choisissez "Create Tag", et donnez-lui un nom, par exemple "v1.0".
+
 
 
 
